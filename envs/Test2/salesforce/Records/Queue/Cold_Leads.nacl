@@ -1,0 +1,14 @@
+salesforce.Queue Cold_Leads {
+  fullName = "Cold_Leads"
+  doesSendEmailToMembers = false
+  name = "Cold_Leads"
+  queueMembers = {
+    publicGroups = {
+      publicGroup = "AllInternalUsers"
+    }
+  }
+  queueSobject = {
+    sobjectType = "Lead"
+  }
+  _alias = "Cold_Leads"
+}
