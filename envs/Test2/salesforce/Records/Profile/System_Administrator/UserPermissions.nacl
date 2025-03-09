@@ -36,6 +36,14 @@ salesforce.Profile Admin {
       enabled = true
       name = "ApiEnabled"
     }
+    ApprovalAdmin = {
+      enabled = true
+      name = "ApprovalAdmin"
+    }
+    ApprovalDesigner = {
+      enabled = true
+      name = "ApprovalDesigner"
+    }
     AssignPermissionSets = {
       enabled = true
       name = "AssignPermissionSets"
@@ -652,6 +660,10 @@ salesforce.Profile Admin {
       enabled = true
       name = "SubscribeToLightningReports"
     }
+    TerritoryOperations = {
+      enabled = true
+      name = "TerritoryOperations"
+    }
     TransactionalEmailSend = {
       enabled = true
       name = "TransactionalEmailSend"
@@ -751,6 +763,10 @@ salesforce.Profile Admin {
     ViewMyTeamsDashboards = {
       enabled = true
       name = "ViewMyTeamsDashboards"
+    }
+    ViewPersonalOrg = {
+      enabled = true
+      name = "ViewPersonalOrg"
     }
     ViewPlatformEvents = {
       enabled = true

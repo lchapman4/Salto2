@@ -414,6 +414,24 @@ salesforce.Profile Analytics_Cloud_Integration_User@s {
       object = "ContractLineItem"
       viewAllRecords = true
     }
+    ConversationApiLog = {
+      allowCreate = false
+      allowDelete = false
+      allowEdit = false
+      allowRead = true
+      modifyAllRecords = false
+      object = "ConversationApiLog"
+      viewAllRecords = true
+    }
+    ConversationApiLogObjSum = {
+      allowCreate = false
+      allowDelete = false
+      allowEdit = false
+      allowRead = true
+      modifyAllRecords = false
+      object = "ConversationApiLogObjSum"
+      viewAllRecords = true
+    }
     Coupon = {
       allowCreate = false
       allowDelete = false

@@ -10,6 +10,11 @@ salesforce.Profile Work_2Ecom_Only_User@pss {
       default = false
       visible = true
     }
+    standard__Approvals = {
+      application = "standard__Approvals"
+      default = false
+      visible = false
+    }
     standard__Chatter = {
       application = "standard__Chatter"
       default = false
@@ -72,6 +77,11 @@ salesforce.Profile Work_2Ecom_Only_User@pss {
     }
     standard__LightningService = {
       application = "standard__LightningService"
+      default = false
+      visible = false
+    }
+    standard__MSJApp = {
+      application = "standard__MSJApp"
       default = false
       visible = false
     }

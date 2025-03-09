@@ -10,6 +10,11 @@ salesforce.Profile Analytics_Cloud_Integration_User@s {
       default = false
       visible = false
     }
+    standard__Approvals = {
+      application = "standard__Approvals"
+      default = false
+      visible = false
+    }
     standard__Chatter = {
       application = "standard__Chatter"
       default = false
@@ -72,6 +77,11 @@ salesforce.Profile Analytics_Cloud_Integration_User@s {
     }
     standard__LightningService = {
       application = "standard__LightningService"
+      default = false
+      visible = false
+    }
+    standard__MSJApp = {
+      application = "standard__MSJApp"
       default = false
       visible = false
     }

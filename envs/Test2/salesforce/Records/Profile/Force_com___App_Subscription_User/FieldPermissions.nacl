@@ -312,6 +312,7 @@ salesforce.Profile Force_2Ecom___App_Subscription_User@psbsss {
       AssistantName = "ReadWrite"
       AssistantPhone = "ReadWrite"
       Birthdate = "ReadWrite"
+      BuyerAttributes = "NoAccess"
       CleanStatus = "ReadOnly"
       Department = "ReadWrite"
       Description = "ReadWrite"

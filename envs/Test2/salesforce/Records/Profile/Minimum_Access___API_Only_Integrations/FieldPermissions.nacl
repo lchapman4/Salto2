@@ -312,6 +312,7 @@ salesforce.Profile Minimum_Access___API_Only_Integrations@ssbsss {
       AssistantName = "NoAccess"
       AssistantPhone = "NoAccess"
       Birthdate = "NoAccess"
+      BuyerAttributes = "NoAccess"
       CleanStatus = "NoAccess"
       Department = "NoAccess"
       Description = "NoAccess"

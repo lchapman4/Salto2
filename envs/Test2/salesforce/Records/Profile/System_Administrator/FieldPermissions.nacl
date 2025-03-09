@@ -312,6 +312,7 @@ salesforce.Profile Admin {
       AssistantName = "ReadWrite"
       AssistantPhone = "ReadWrite"
       Birthdate = "ReadWrite"
+      BuyerAttributes = "NoAccess"
       CleanStatus = "ReadOnly"
       Department = "ReadWrite"
       Description = "ReadWrite"

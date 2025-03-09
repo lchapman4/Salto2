@@ -10,6 +10,11 @@ salesforce.Profile Authenticated_Website@s {
       default = false
       visible = true
     }
+    standard__Approvals = {
+      application = "standard__Approvals"
+      default = false
+      visible = true
+    }
     standard__Chatter = {
       application = "standard__Chatter"
       default = false
@@ -72,6 +77,11 @@ salesforce.Profile Authenticated_Website@s {
     }
     standard__LightningService = {
       application = "standard__LightningService"
+      default = false
+      visible = true
+    }
+    standard__MSJApp = {
+      application = "standard__MSJApp"
       default = false
       visible = true
     }
